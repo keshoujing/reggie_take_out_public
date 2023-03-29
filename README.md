@@ -32,13 +32,13 @@
 
 ---
 
-![2.png](Reggie%20Takeout%2026e52673098d4a4fac4a204f14aa0012/2.png)
+![2](https://user-images.githubusercontent.com/80348813/228588159-cb00f1a7-d64d-4313-b0ef-1291eaf6b552.png)
 
 ---
 
 # 2. Backend
 
-![1.png](Reggie%20Takeout%2026e52673098d4a4fac4a204f14aa0012/1.png)
+![1](https://user-images.githubusercontent.com/80348813/228588156-5a7465e3-367c-4b10-8e75-b2a8c24fd86f.png)
 
 ---
 
@@ -57,7 +57,7 @@ Main Features:
 
 # 3. Frontend
 
-![3.png](Reggie%20Takeout%2026e52673098d4a4fac4a204f14aa0012/3.png)
+![3](https://user-images.githubusercontent.com/80348813/228588165-e56f4b14-7d3c-42f1-af18-18c5687fddb0.png)
 
 ---
 
